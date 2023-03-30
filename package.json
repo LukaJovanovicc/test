@@ -4,8 +4,7 @@
   "description": "",
   "scripts": {
     "watch:sass": "node-sass sass/main.scss css/style.css -w",
-    "devserver": "live-server",
-    "build": "parcel build index.html"
+    "devserver": "live-server"
   },
   "author": "",
   "license": "ISC",
